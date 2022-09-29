@@ -1,0 +1,24 @@
+body {
+    background-image: linear-gradient(180deg, #eee, #fff 100px, #fff);
+  }
+  
+  .container {
+    max-width: 960px;
+  }
+  
+  .pricing-header {
+    max-width: 700px;
+  }
+  .masthead {
+    background-size: cover;
+    min-height: 60vh;
+    background-position: center ;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(0,0,0,.5);
+}
+h1 {
+ 
+  font-size: 4rem;
+}
+
+
